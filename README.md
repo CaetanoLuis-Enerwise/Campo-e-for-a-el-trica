@@ -1,7 +1,5 @@
 
 **Aluno:**Caetano Policarpo Luís 
-**Disciplina:** Eletromagnetismo  
-**Data 07/01/2026  
 
 ## Descrição Geral
 
